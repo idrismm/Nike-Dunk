@@ -2,11 +2,6 @@
 ## Découvrez l'univers captivant des Nike Dunk, une icône intemporelle qui a évolué du basket-ball aux rues, en alliant style, confort et culture urbaine !
 ### Vous voulez en savoir plus sur :
 
-  
-  
-  </div>
-</div>
-
 <table>
   <tr>
     <td><img src="https://github.com/idrismm/Nike-Dunk/blob/main/accueil%20dunk.jpg?raw=true" alt="Texte alternatif" style="width: 300px;"></td>
