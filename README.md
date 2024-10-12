@@ -3,20 +3,9 @@
 ### Pourquoi les Nike Dunk portent-elles ce nom ?
 Saviez-vous que les Nike Dunk tirent leur nom du célèbre **[Dunk](https://fr.wikipedia.org/wiki/Dunk)** au basketball ? Ce geste emblématique, symbole de puissance et de style, reflète l'esprit même de cette paire iconique. Curieux d'en savoir plus sur cette connexion entre sport et mode ?                           
 
-<table>
-  <tr>
-    <td><img src="https://github.com/idrismm/Nike-Dunk/blob/main/dunk%20basket.jpg" alt="dessin dunk" style="width: 300px;"></td>
-    <td>
-      <p>
-        <h2>Les Origines</h2>
-        <h2>L'Évolution</h2>
-        <h2>Les Caractéristiques</h2>
-        <h2>L'Impact Culturel</h2>
-      </p>
-    </td>
-    <td><img src="https://github.com/idrismm/Nike-Dunk/blob/main/accueil%20dunk.jpg?raw=true" alt="basketball dunk" style="width: 300px;"></td>
-  </tr>
-</table>
+| ![Dessin Dunk](https://github.com/idrismm/Nike-Dunk/blob/main/dunk%20basket.jpg) | **Les Origines**  <br> **L'Évolution**  <br> **Les Caractéristiques**  <br> **L'Impact Culturel** | ![Basketball Dunk](https://github.com/idrismm/Nike-Dunk/blob/main/accueil%20dunk.jpg?raw=true) |
+|:-------------------------------------------------------:|:---------------------------------------------------------:|:------------------------------------------------------:|
+
 
 
 ### [Cliquez ici](https://github.com/idrismm/Nike-Dunk/wiki) 
