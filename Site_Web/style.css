@@ -1,0 +1,35 @@
+h1
+{
+text-align: center;
+text-decoration: underline;
+font-size: 290%;
+color: white;
+}
+p
+{
+text-align: center;
+font-family: arial;
+color: black;
+font-size: 250%;
+}
+p1
+{
+text-align: left;
+font-family: arial;
+color: black;
+font-size: 250%
+}
+img
+{
+text-align: center;
+
+}
+body
+{
+background-image:url("robot3.jpg");
+}
+a
+{
+font-size: 300%;
+text-align: left;
+}
